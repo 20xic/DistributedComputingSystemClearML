@@ -1,0 +1,5 @@
+project_name: MyProject
+task_name: MyTask
+tags:
+  - example
+  - test
